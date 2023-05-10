@@ -35,3 +35,9 @@
     color: white;
     text-decoration: none;
 }
+
+.filter {
+    display: flex;
+    flex-direction: column;
+    width: 10%;
+}
