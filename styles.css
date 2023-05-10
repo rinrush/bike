@@ -30,3 +30,8 @@
     justify-content: center;
     gap: 50px;
 }
+
+.category {
+    color: white;
+    text-decoration: none;
+}
