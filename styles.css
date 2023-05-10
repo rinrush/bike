@@ -23,3 +23,10 @@
 #cart {
     width: 45%;
 }
+
+.categories {
+    background-color: rgb(150, 121, 200);
+    display: flex; 
+    justify-content: center;
+    gap: 50px;
+}
