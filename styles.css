@@ -6,12 +6,20 @@
 
 .header {
     background-color: darkslateblue;
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 0 10px 10px;
+}
+
+.links {
+    display: flex;
+    width: 10%;
 }
 
 #login {
-    width: 1.5%;
+    width: 20%;
 }
 
 #cart {
-    width: 2%;
+    width: 45%;
 }
