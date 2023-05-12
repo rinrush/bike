@@ -5,7 +5,7 @@
 }
 
 .header {
-    background-color: darkslateblue;
+    background-color: black;
     display: flex;
     justify-content: space-between;
     padding: 10px 0 10px 10px;
@@ -29,7 +29,7 @@
 }
 
 .categories {
-    background-color: rgb(150, 121, 200);
+    background-color: gray;
     display: flex; 
     justify-content: center;
     gap: 50px;
