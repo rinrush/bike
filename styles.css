@@ -122,9 +122,17 @@ button:hover {
     background-color: rgb(239, 239, 239);
     border-radius: 7px;
     padding: 0 10px 10px 10px;
-    margin-top: 50px;
+    margin: 50px 0 50px 0;
 }
 
 #helmet {
     width: 100%;
+}
+
+footer {
+    background-color: black;
+    color: white;
+    padding: 10px;
+    display: flex;
+    justify-content: center;
 }
